@@ -13,7 +13,7 @@ global.pulsa = '0895402127803'
 global.gopay = '089502191993'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Mikuあ⁩'
+global.namebot = 'Anyaあ⁩'
 global.gc = '-'
 global.web = 'https://github.com/Xzcyy' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Aditタ'
 global.watermark = wm
-global.wm2 = '                     「 Miku Chanあ⁩ 」'
-global.wm3 = 'Miku Chanあ⁩'
+global.wm2 = '                     「 Anyaあ⁩ 」'
+global.wm3 = 'Anyaあ⁩'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
